@@ -1,4 +1,4 @@
-## Welcome to LifeHouse Development
+## Welcome to Lifehouse Development
 
 Lifehouse Development's mission is to serve businesses and non-profits by leveraging technology. From web development to backend systems, we help you succeed at what you do best!
 
